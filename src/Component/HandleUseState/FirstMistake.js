@@ -1,6 +1,5 @@
 // ::::::::::::  Video Link: 6 mistakes of useState ::::::::::::::::::
-// https://www.google.com/search?q=mistake+in+useState+in+react+js&oq=mistake+in+useState+in+react+js&aqs=chrome..69i57j33i160l2.8915j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:0f68cbe4,vid:Fhu5cu864ag
-
+// https://www.google.com/search?q=6+mistakes+in+suestate+in+react+js&oq=6+mistakes+in+sues&aqs=chrome.1.69i57j33i160l4.8504j0j7&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:0f68cbe4,vid:Fhu5cu864ag
 // Time : 0:30 >>> 2:50
 
 // ::::::::::::   Topic : 6 mistakes of useState ::::::::::::::::::

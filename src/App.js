@@ -1,13 +1,10 @@
 import "./App.css";
-import LowerCaseArrayMap from "./Component/ArrayMap/LowerCaseArrayMap";
-import SecondMistake from "./Component/HandleUseState/SecondMistake";
-import SixMistakeuseState from "./Component/HandleUseState/FirstMistake";
-import UseReducerOne from "./componenttwo/useReducer/UseReducerOne";
+import FifthAndSixMistake from "./Component/HandleUseState/FifthAndSixMistake";
 
 function App() {
   return (
     <div className="App">
-      <SecondMistake />
+      <FifthAndSixMistake />
     </div>
   );
 }
