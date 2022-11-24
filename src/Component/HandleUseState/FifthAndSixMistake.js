@@ -26,6 +26,7 @@ const FifthAndSixMistake = () => {
   //  const [selectedProducts, setSelectedProducts] = useState({});
   const [selectedId, setSelectedId] = useState(null);
   const selectedProducts = products.find((p) => p.id === selectedId);
+  console.log(selectedProducts);
 
   //   const selectedId = products.find((p) => p.id === id);
   const ChooseProducts = (id) => {
