@@ -1,5 +1,7 @@
 import React, { useState } from "react";
 
+// see Fourth Mistake same as this to get value from input
+
 const ComplexUseState = () => {
   const [data, setData] = useState({
     firstName: "",
