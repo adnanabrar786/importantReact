@@ -20,12 +20,13 @@ const HandleUseEffect = () => {
   //    },[count]);
 
   // 3) componentwillUnmount
+  // Onreaload p first time p work 1 phr work 2 phe work 1 
   useEffect(() => {
     // Second Print
     console.log("work 1");
     return () => {
       // first Print
-      console.log("work 2");
+      console.log("return work 2");
     };
   }, [count === 3]);
 
