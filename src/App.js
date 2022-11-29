@@ -1,12 +1,12 @@
 import "./App.css";
-import ComplexUseState from "./Component/HandleUseState/ComplexUseState";
-import FifthAndSixMistake from "./Component/HandleUseState/FifthAndSixMistake";
-import SimpleUseState from "./Component/HandleUseState/SimpleUseState";
+import HandleUseEffect from "./Component/HandleUseEffect/HandleUseEffect";
+import Mistakestwo from "./Component/HandleUseEffect/Mistakestwo";
+import Mistakethreefetchdata from "./Component/HandleUseEffect/Mistakethreefetchdata";
 
 function App() {
   return (
     <div className="App">
-      <ComplexUseState />
+      <HandleUseEffect />
     </div>
   );
 }

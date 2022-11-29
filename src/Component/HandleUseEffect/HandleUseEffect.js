@@ -32,7 +32,7 @@ const HandleUseEffect = () => {
   return (
     <div>
       <p>{count}</p>
-      <button onClick={() => setCount(count + 1)}> update </button>
+      <button onClick={() => setCount(prev => prev + 1)}> update </button>
     </div>
   );
 };
