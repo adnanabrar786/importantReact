@@ -1,7 +1,5 @@
 import "./App.css";
-import Handleusecallback from "./Component/handleUseCallback/Handleusecallback";
-import Parent from "./Component/HandleUseMemo/memoandcallback/Parent";
-import Usememo from "./Component/HandleUseMemo/Usememo";
+import Parent from "./Component/ChildToParentData/Parent";
 
 function App() {
   return (
