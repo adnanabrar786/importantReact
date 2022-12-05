@@ -17,7 +17,7 @@ const Usememo = () => {
         return num;
     }
 
-    //  const checkData =  counterNumber(number) ;
+    // const checkData =  counterNumber(number) ;
     const checkData = useMemo(() => {
         return counterNumber(number)
     }, [number])
