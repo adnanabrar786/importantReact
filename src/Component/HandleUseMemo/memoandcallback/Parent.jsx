@@ -13,7 +13,6 @@ const Parent = () => {
     setNumber(prev => prev + 1)
   }
 
-
   const addcCount = () => {
     setCount(prev => prev + 2)
   }
