@@ -1,12 +1,12 @@
 import "./App.css";
-import HandleUseEffect from "./Component/HandleUseEffect/HandleUseEffect";
-import Mistakestwo from "./Component/HandleUseEffect/Mistakestwo";
-import Mistakethreefetchdata from "./Component/HandleUseEffect/Mistakethreefetchdata";
+import Handleusecallback from "./Component/handleUseCallback/Handleusecallback";
+import Parent from "./Component/HandleUseMemo/memoandcallback/Parent";
+import Usememo from "./Component/HandleUseMemo/Usememo";
 
 function App() {
   return (
     <div className="App">
-      <HandleUseEffect />
+      <Parent/>
     </div>
   );
 }
