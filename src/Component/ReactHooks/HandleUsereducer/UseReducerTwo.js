@@ -15,7 +15,6 @@ const UseReducerTwo = () => {
                 return { ...state , firstCounter: state.firstCounter + action.value };
             case 'decrement':
                 return { ...state , firstCounter: state.firstCounter - action.value };
-
             case 'increment2':
                 return { ...state , secondCounter: state.secondCounter + action.value };
             case 'decrement2':

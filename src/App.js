@@ -1,10 +1,13 @@
 import "./App.css";
-import Parent from "./Component/ChildToParentData/Parent";
+import Usememo from "./Component/ReactHooks/HandleUseMemo/Usememo";
+import UseReducerThree from "./Component/ReactHooks/HandleUsereducer/UseReducerThree";
+
 
 function App() {
   return (
     <div className="App">
-      <Parent/>
+      <UseReducerThree/>
+
     </div>
   );
 }
