@@ -1,7 +1,7 @@
 import React, { useRef } from "react";
 
 const MultileUseRef = () => {
-  const inputRef = useRef(null);
+  // const inputRef = useRef(null);
 
   const inputName = useRef();
   const inputEmail = useRef();
