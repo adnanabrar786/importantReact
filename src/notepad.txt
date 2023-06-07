@@ -1,3 +1,29 @@
+Learn React js In 2023 >>>>>>>>>>>>>>>.
+1) React Hooks
+2) Nextjs
+3) Redux
+4) FORMIK
+5) React Query --> Data Fast for chache
+6) React Virtulaized --> for large list render without dstroyed our app performance
+7) React Spring ---> for animation
+8) React Testing Library
+9) TypeScript
+10) React Native --->  android and iso developer
+
+
+
+https://www.youtube.com/watch?v=9cQsv91zBsc
+
+
+Question/ Answer
+https://www.javatpoint.com/react-interview-questions
+
+
+
+semantic tag
+Learn React js In 2023 end >>>>>>>>>>>>>>>.
+
+
 *) props
 *) useState
 *) useEffect
