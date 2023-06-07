@@ -11,3 +11,34 @@ secure
 hhtp
 cancelling request and request timeout
 Axios has wide browser support.
+
+According to React Documentation >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+*) Introducing JSX
+JSX (JavaScript XML) is an extension to JavaScript 
+ that allows you to write HTML-like syntax within JavaScript code.
+ It is commonly used in React, a JavaScript library
+ for building user interfaces.
+
+*)  Rendering Elements
+In React, rendering elements refers to the process of creating and displaying 
+UI components on the screen. React provides a declarative approach to building
+ user interfaces, where you define how your UI should look based on the current 
+state of your application, and React takes care of efficiently updating 
+the actual DOM (Document Object Model) to reflect those changes.
+
+
+*) State and Lifecycle 
+componentDidMount()
+componentDidUpdate(prevProps, prevState)
+componentWillUnmount()
+
+*)  Lifting State Up 
+To pass data parent to child and update child data according to parent 
+It helps in avoiding prop drilling
+
+
+*) Composition vs Inheritance
+https://www.youtube.com/watch?v=of7isf3YBZ4  (Composition)
+
+https://www.youtube.com/watch?v=llBV_fNJXyQ
